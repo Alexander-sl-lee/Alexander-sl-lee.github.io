@@ -1,9 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Predicting AFL Winners 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Sportsbetting is a huge industry in Australia, and in keeping with the Australian spirit, this project aims to predict the winning
+teams for any given AFL match in a season and advise how much we should bet.
+
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
