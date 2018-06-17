@@ -7,9 +7,6 @@ Australian's have been notorious for their addiction to gambling. Unfortunately,
 uses Logistic Regression among other techniques to predict which team would win in a game of AFL. However, to further reduce the human elements involved, our model incorporates
 the use of a fractional Kelly Criterion to advise on how much we should bet.
 
-As a result, for the years of 2010-2015 we have been able sustain an average of ~500% increase in our starting bank.
-
-
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 Section still in development.s
