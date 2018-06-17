@@ -9,7 +9,3 @@ are related to our key words.
 
 But beyond that, we can also look at what terms occur more frequently depending on the pay level for these jobs. In this example, I have searched jobs relating to "Data Scientist",
 in order to gauge I should expect when entering the market. Try it for you're own job title and see what comes up :).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-Section still in development.
